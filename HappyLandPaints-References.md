@@ -3,5 +3,5 @@
 
 ## References
 
-* Github. \(2012, December 2\). [SheetJS/sheetjs]. (https://github.com/SheetJS/sheetjs)
+* Github. \(2012, December 2\). SheetJS/sheetjs. [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
 
