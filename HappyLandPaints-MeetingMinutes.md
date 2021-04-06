@@ -39,3 +39,11 @@
 |Gurwinder|Completed my User Stories|No issue encountered|Testing Overall Project Functionality|
 |Lovepreet|Completed my User Stories|No issues encountered|Testing Overall Project Functionality|
 |Navneet|Completed my User Stories|No issues encountered|Testing Overall Project Functionality|
+
+### April 6, 2021:
+
+|Name|What I have done since the last meeting| What I need help on|What I will have done prior to the the next meeting|
+|--|--|--|--|
+|Gurwinder|Testing Overall Project Functionality|No issue encountered|Deploy and make video|
+|Lovepreet|Testing Overall Project Functionality|No issues encountered|Deploy and make video|
+|Navneet|Testing Overall Project Functionality|No issues encountered|Deploy and make video|
